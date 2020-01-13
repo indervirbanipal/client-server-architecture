@@ -1,0 +1,22 @@
+DataStoreClientImpl:write: Executing write operation.
+DataStoreClientImpl:write: Write operation successfull.
+DataStoreClientImpl:write: Executing write operation.
+DataStoreClientImpl:write: Write operation successfull.
+DataStoreClientImpl:read: Executing read operation.
+DataStoreClientImpl:read: Read operation successfull.
+DataStoreClientImpl:read: Read operation successfully done.
+DataStoreClientImpl:delete: Executing delete operation.
+DataStoreClientImpl:delete: Delete operation successfull.
+DataStoreClientImpl:write: Executing write operation.
+DataStoreClientImpl:write: Write operation successfull.
+DataStoreClientImpl:directory: Executing directory operation.
+DataStoreClientImpl:directory: Delete operation successfull.
+DataStoreClientImpl:directory: Directory operation successfull.
+ObjectStoreClientImpl:writeObject: Executing write object operation.
+ObjectStoreClientImpl:writeObject: Write object operation successfull.
+ObjectStoreClientImpl:writeObject: Executing write object operation.
+ObjectStoreClientImpl:writeObject: Write object operation successfull.
+ObjectStoreClientImpl:readObject: Executing read object operation.
+ObjectStoreClientImpl:readObject: Read operation successfull.
+
+Process finished with exit code 0
