@@ -4,4 +4,4 @@
 
 2. The runnable jar contains the compiled code for this program. Make a data folder in the same location as of the server jar. Run this through command prompt after setting appropriate Java path. A sample command looks like `java -jar client-server-data-storage-tcp-ip.jar`. The message on the command prompt will show you that the server is up (provided that there is no other server up at the same port, which by default has been set to 10024).
 
-3. Run the client code (Main.java) and check the data folder (same location as of the server jar) to get the output files generated. 
+3. Run the client code (Main.java) and check the data folder (same location as of the server jar) to get the output files generated.  
